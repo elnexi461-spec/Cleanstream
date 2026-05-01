@@ -16,3 +16,20 @@
   "payment_methods": ["USDC", "x402"],
   "status": "active"
 }
+{
+  "business_name": "CleanStream Data",
+  "version": "EL461",
+  "pricing": {
+    "currency": "USDC",
+    "network": "Base",
+    "per_download": 0.50
+  },
+  "resources": [
+    {
+      "name": "Full LinkedIn Lead Pack",
+      "path": "/data/full_leads.jsonl",
+      "price": 5.00,
+      "type": "file_storefront"
+    }
+  ]
+}
