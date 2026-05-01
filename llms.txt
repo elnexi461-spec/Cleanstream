@@ -1,0 +1,22 @@
+# CleanStream Data Storefront
+
+> High-signal, noise-free training data for LLMs and autonomous agents.
+
+## Core Services
+- **Data Structuring:** Converting messy web data into LLM-ready JSONL.
+- **Niche Scraping:** High-frequency monitoring of professional and social networks.
+- **Verification:** Multi-step cleaning to remove hallucinations and duplicate records.
+
+## Data Inventory
+- Professional Network Snapshots: Structured JSON of industry-specific talent trends.
+- Social Sentiment Packs: Curated datasets for training sentiment analysis agents.
+- Localized Market Data: Real-time price and availability feeds from West African commerce hubs.
+
+## Transaction Protocol
+- Payments: Accepts USDC (Base) and x402 machine-to-machine payments.
+- API Access: Bearer token auth required for live streams.
+- Mission Tracking Reference: EL461.
+
+## Contact & Integration
+- To request custom datasets, ping the 'Ask-a-Human' endpoint.
+- For bulk licensing, refer to /legal/data-usage.md.
