@@ -1,0 +1,18 @@
+{
+  "business_name": "CleanStream Data",
+  "version": "EL461",
+  "owner": "Isah Muhammad Muhammad",
+  "category": "Data & AI Services",
+  "capabilities": [
+    "advanced_data_cleaning",
+    "professional_network_scraping",
+    "jsonl_formatting"
+  ],
+  "endpoints": {
+    "public_home": "https://cleanstream.resolved.sh",
+    "data_feed": "https://cleanstream.resolved.sh/api/v1/feed",
+    "spec": "https://cleanstream.resolved.sh/llms.txt"
+  },
+  "payment_methods": ["USDC", "x402"],
+  "status": "active"
+}
