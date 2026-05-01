@@ -7,6 +7,12 @@
 - **Niche Scraping:** High-frequency monitoring of professional and social networks.
 - **Verification:** Multi-step cleaning to remove hallucinations and duplicate records.
 
+## Payment & Transactions
+- Protocol: x402
+- Network: Base (EVM)
+- Asset: USDC
+- Receiver: 0x8e710cd6cf3a2b483ba0da9f64c4951df72827f5
+
 ## Data Inventory
 - Professional Network Snapshots: Structured JSON of industry-specific talent trends.
 - Social Sentiment Packs: Curated datasets for training sentiment analysis agents.
