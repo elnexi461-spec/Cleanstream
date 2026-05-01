@@ -33,3 +33,13 @@
     }
   ]
 }
+{
+  "business_name": "CleanStream Data",
+  "version": "EL461",
+  "payment_config": {
+    "network": "base",
+    "asset": "USDC",
+    "payTo": "0x8e710cd6cf3a2b483ba0da9f64c4951df72827f5"
+  }
+}
+
